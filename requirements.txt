@@ -1,0 +1,5 @@
+keras>=2.0
+matplotlib>=3.0
+notebook>=5.0
+numpy>=1.8
+scikit-learn>=0.20
